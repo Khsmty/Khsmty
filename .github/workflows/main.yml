@@ -38,7 +38,3 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_traffic: yes
-          plugin_tweets: yes
-          plugin_tweets_attachments: yes
-          plugin_tweets_limit: 3
-          plugin_tweets_user: tubuan_2124
