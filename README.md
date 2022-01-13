@@ -2,6 +2,8 @@
 
 # About me
 
+Discord Bot 等を作成しています。
+
 ## Stats
 
 ![](https://github-readme-stats.vercel.app/api/?username=tubuanha&show_icons=true&count_private=true)
