@@ -13,30 +13,30 @@ Discord Bot 等を作成しています。
 
 ### Languages
 
-![](https://img.shields.io/badge/Node.js-303030?logo=node.js)
-![](https://img.shields.io/badge/Nuxt.js-303030?logo=nuxt.js)
-![](https://img.shields.io/badge/Vue.js-303030?logo=vue.js)
-![](https://img.shields.io/badge/JavaScript-303030?logo=javascript)
-![](https://img.shields.io/badge/TypeScript-303030?logo=typescript)
-![](https://img.shields.io/badge/Python-303030?logo=python)
+![](https://img.shields.io/badge/Node.js-3c873a?labelColor=black&logo=node.js)
+![](https://img.shields.io/badge/Nuxt.js-41b883?labelColor=black&logo=nuxt.js)
+![](https://img.shields.io/badge/Vue.js-34495e?labelColor=black&logo=vue.js)
+![](https://img.shields.io/badge/JavaScript-f0db4f?labelColor=black&logo=javascript)
+![](https://img.shields.io/badge/TypeScript-007acc?labelColor=black&logo=typescript)
+![](https://img.shields.io/badge/Python-ffe873?labelColor=black&logo=python)
 
 ### Hostings
 
-![](https://img.shields.io/badge/Cloudflare-303030?logo=cloudflare)
-![](https://img.shields.io/badge/Heroku-303030?logo=heroku)
-![](https://img.shields.io/badge/Vercel-303030?logo=vercel)
-![](https://img.shields.io/badge/Netlify-303030?logo=netlify)
-![](https://img.shields.io/badge/Replit-303030?logo=replit)
+![](https://img.shields.io/badge/Cloudflare-f48120?labelColor=black&logo=cloudflare)
+![](https://img.shields.io/badge/Heroku-6762a6?labelColor=black&logo=heroku)
+![](https://img.shields.io/badge/Vercel-f5f5f5?labelColor=black&logo=vercel)
+![](https://img.shields.io/badge/Netlify-32fce2?labelColor=black&logo=netlify)
+![](https://img.shields.io/badge/Replit-9c9c9c?labelColor=black&logo=replit)
 
 ### Editors
 
-![](https://img.shields.io/badge/Visual_Studio_Code-303030?logo=visual-studio-code)
-![](https://img.shields.io/badge/IntelliJ_IDEA-303030?logo=intellij-idea)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?labelColor=black&logo=visual-studio-code)
+![](https://img.shields.io/badge/IntelliJ_IDEA-f25622?labelColor=black&logo=intellij-idea)
 
 ### Socials
 
-![](https://img.shields.io/badge/Twitter_(@tubuanha2124)-303030?logo=twitter)
-![](https://img.shields.io/badge/Discord_(つぶあん派%232124)-303030?logo=discord)
+![](https://img.shields.io/badge/Twitter_(@tubuanha2124)-1da1f2?labelColor=black&logo=twitter)
+![](https://img.shields.io/badge/Discord_(つぶあん派%232124)-5865f2?labelColor=black&logo=discord)
 
 ## Links
 
