@@ -1,3 +1,13 @@
 ![Profile views](https://komarev.com/ghpvc/?username=tubuanha)
 
-<img src="https://github.com/tubuanha/tubuanha/blob/master/github-metrics.svg" width="100%">
+# About me
+
+## Stats
+
+## Languages and tools
+
+## Links
+
+[![](https://ricapitolare.vercel.app/svg?url=https://zenn.dev/tubuan)](https://zenn.dev/tubuan)
+[![](https://ricapitolare.vercel.app/svg?url=https://battlecats.win)](https://battlecats.win)
+[![](https://ricapitolare.vercel.app/svg?url=https://dissoku.net)](https://dissoku.net)
