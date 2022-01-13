@@ -33,6 +33,13 @@ Discord Bot 等を作成しています。
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?labelColor=black&logo=visual-studio-code)
 ![](https://img.shields.io/badge/IntelliJ_IDEA-f25622?labelColor=black&logo=intellij-idea)
 
+### OS
+
+![](https://img.shields.io/badge/Windows-00a4ef?labelColor=black&logo=windows)
+![](https://img.shields.io/badge/Linux-ffea00?labelColor=black&logo=linux)
+![](https://img.shields.io/badge/Android-32de84?labelColor=black&logo=android)
+![](https://img.shields.io/badge/iPadOS-ff87cf?labelColor=black&logo=ios)
+
 ### Socials
 
 ![](https://img.shields.io/badge/Twitter_(@tubuanha2124)-1da1f2?labelColor=black&logo=twitter)
