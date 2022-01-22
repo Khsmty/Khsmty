@@ -47,6 +47,6 @@ Discord Bot 等を作成しています。
 
 ## Links
 
-[![](https://ricapitolare.vercel.app/svg?url=https://zenn.dev/tubuan)](https://zenn.dev/tubuan)
+[![](https://ricapitolare.vercel.app/svg?url=https://tubuanha.com)](https://tubuanha.com)
 [![](https://ricapitolare.vercel.app/svg?url=https://battlecats.win)](https://battlecats.win)
 [![](https://ricapitolare.vercel.app/svg?url=https://dissoku.net)](https://dissoku.net)
