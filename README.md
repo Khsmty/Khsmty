@@ -6,8 +6,8 @@ Discord Bot 等を作成しています。
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api/?username=tubuanha&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tubuanha&layout=compact)
+![](https://github-readme-stats.vercel.app/api/?username=tubuanha&show_icons=true&count_private=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tubuanha&layout=compact&theme=dark)
 
 ## Languages and tools
 
@@ -25,7 +25,7 @@ Discord Bot 等を作成しています。
 ![](https://img.shields.io/badge/Cloudflare-f48120?labelColor=black&logo=cloudflare)
 ![](https://img.shields.io/badge/Heroku-6762a6?labelColor=black&logo=heroku)
 ![](https://img.shields.io/badge/Vercel-f5f5f5?labelColor=black&logo=vercel)
-![](https://img.shields.io/badge/Netlify-32fce2?labelColor=black&logo=netlify)
+![](https://img.shields.io/badge/Netlify-00c7b7?labelColor=black&logo=netlify)
 ![](https://img.shields.io/badge/Replit-9c9c9c?labelColor=black&logo=replit)
 
 ### Editors
