@@ -42,8 +42,8 @@ Discord Bot 等を作成しています。
 
 ### Socials
 
-![](https://img.shields.io/badge/Twitter_(@tubuanha2124)-1da1f2?labelColor=black&logo=twitter)
-![](https://img.shields.io/badge/Discord_(つぶあん派%232124)-5865f2?labelColor=black&logo=discord)
+[![](https://img.shields.io/badge/Twitter_(@ahnaubut)-1da1f2?labelColor=black&logo=twitter)](https://twitter.com/ahnaubut)
+[![](https://img.shields.io/badge/Discord_(つぶあん派%232124)-5865f2?labelColor=black&logo=discord)](https://discord.com/users/723052392911863858)
 
 ## Links
 
