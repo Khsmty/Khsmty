@@ -6,8 +6,8 @@ Discord Bot 等を作成しています。
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api/?username=Khsmty&show_icons=true&count_private=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khsmty&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/?username=Khsmty&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khsmty&layout=compact)
 
 ## Languages and tools
 
