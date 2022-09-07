@@ -1,13 +1,13 @@
 ![Profile views](https://komarev.com/ghpvc/?username=khsmty)
 
 # About me
-
 Discord Bot 等を作成しています。
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api/?username=Khsmty&show_icons=true&count_private=true&theme=dark&title_color=c9d1d9&icon_color=f78166&bg_color=0d1117&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khsmty&layout=compact&theme=dark&title_color=c9d1d9&bg_color=0d1117&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/?username=Khsmty&show_icons=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Khsmty)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khsmty&layout=compact)
 
 ## Languages and tools
 
