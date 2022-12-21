@@ -47,5 +47,4 @@ Discord Bot 等を作成しています。
 
 ## Links
 
-[![](https://ricapitolare.vercel.app/svg?url=https://khsmty.com)](https://tubuanha.com)
-[![](https://ricapitolare.vercel.app/svg?url=https://dissoku.net)](https://dissoku.net)
+[![](https://ricapitolare.vercel.app/svg?url=https://khsmty.com)](https://khsmty.com)
