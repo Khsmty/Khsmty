@@ -16,6 +16,8 @@ Discord Bot 等を作成しています。
 ![](https://img.shields.io/badge/Node.js-3c873a?labelColor=black&logo=node.js)
 ![](https://img.shields.io/badge/Nuxt.js-41b883?labelColor=black&logo=nuxt.js)
 ![](https://img.shields.io/badge/Vue.js-34495e?labelColor=black&logo=vue.js)
+![](https://img.shields.io/badge/Next.js-f5f5f5?labelColor=black&logo=next.js)
+![](https://img.shields.io/badge/React-61dbfb?labelColor=black&logo=react)
 ![](https://img.shields.io/badge/JavaScript-f0db4f?labelColor=black&logo=javascript)
 ![](https://img.shields.io/badge/TypeScript-007acc?labelColor=black&logo=typescript)
 ![](https://img.shields.io/badge/Python-ffe873?labelColor=black&logo=python)
