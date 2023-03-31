@@ -1,52 +1,33 @@
 ![Profile views](https://komarev.com/ghpvc/?username=khsmty)
 
-# About me
-Discord Bot 等を作成しています。
+## Hi there 👋
+
+I'm Khsmty, a Japanese student.
+
+## I'm currently learning
+
+- JavaScript
+- TypeScript
+- Rust
+- Python
+- Dart
+- Docker
+- English
+
+## I make
+
+- Some Web sites
+- Discord Bot ([@miq4d](https://github.com/miq4d), etc...)
+- A little tool
+
+## How to reach me
+
+- Discord: [Khsmty#2222](https://discord.com/users/723052392911863858)
+- Twitter: [@Khsmty](https://twitter.com/Khsmty)
+- Fediverse: [@Khsmty@misskey.io](https://misskey.io/@Khsmty)
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api/?username=Khsmty&show_icons=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Khsmty)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khsmty&layout=compact)
-
-## Languages and tools
-
-### Languages
-
-![](https://img.shields.io/badge/Node.js-3c873a?labelColor=black&logo=node.js)
-![](https://img.shields.io/badge/Nuxt.js-41b883?labelColor=black&logo=nuxt.js)
-![](https://img.shields.io/badge/Vue.js-34495e?labelColor=black&logo=vue.js)
-![](https://img.shields.io/badge/Next.js-f5f5f5?labelColor=black&logo=next.js)
-![](https://img.shields.io/badge/React-61dbfb?labelColor=black&logo=react)
-![](https://img.shields.io/badge/JavaScript-f0db4f?labelColor=black&logo=javascript)
-![](https://img.shields.io/badge/TypeScript-007acc?labelColor=black&logo=typescript)
-![](https://img.shields.io/badge/Python-ffe873?labelColor=black&logo=python)
-
-### Hostings
-
-![](https://img.shields.io/badge/Cloudflare-f48120?labelColor=black&logo=cloudflare)
-![](https://img.shields.io/badge/Heroku-6762a6?labelColor=black&logo=heroku)
-![](https://img.shields.io/badge/Vercel-f5f5f5?labelColor=black&logo=vercel)
-![](https://img.shields.io/badge/Netlify-00c7b7?labelColor=black&logo=netlify)
-![](https://img.shields.io/badge/Replit-9c9c9c?labelColor=black&logo=replit)
-
-### Editors
-
-![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?labelColor=black&logo=visual-studio-code)
-![](https://img.shields.io/badge/IntelliJ_IDEA-f25622?labelColor=black&logo=intellij-idea)
-
-### OS
-
-![](https://img.shields.io/badge/Windows-00a4ef?labelColor=black&logo=windows)
-![](https://img.shields.io/badge/Linux-ffea00?labelColor=black&logo=linux)
-![](https://img.shields.io/badge/Android-32de84?labelColor=black&logo=android)
-![](https://img.shields.io/badge/iPadOS-ff87cf?labelColor=black&logo=ios)
-
-### Socials
-
-[![](https://img.shields.io/badge/Twitter-1da1f2?labelColor=black&logo=twitter)](https://twitter.com/Khsmty)
-[![](https://img.shields.io/badge/Discord-5865f2?labelColor=black&logo=discord)](https://discord.com/users/723052392911863858)
-
-## Links
-
-[![](https://ricapitolare.vercel.app/svg?url=https://khsmty.com)](https://khsmty.com)
+[![](https://github-readme-stats.vercel.app/api/?username=Khsmty&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Khsmty)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khsmty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
