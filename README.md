@@ -13,6 +13,7 @@ I'm Khsmty, a Japanese student.
 - Dart
 - Docker
 - English
+- And many more...
 
 ## I make
 
