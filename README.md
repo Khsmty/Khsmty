@@ -1,4 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=khsmty)
+[![wakatime](https://wakatime.com/badge/user/00015e7c-0762-4449-b1b4-fde19a0d35b2.svg)](https://wakatime.com/@Khsmty)
 
 ## Hi there 👋
 
@@ -30,6 +31,10 @@ I'm Khsmty, a Japanese student.
 
 ## Stats
 
-[![](https://github-readme-stats.vercel.app/api/?username=Khsmty&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Khsmty&theme=dark)](https://git.io/streak-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khsmty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/?username=Khsmty&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Khsmty)](https://git.io/streak-stats)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khsmty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=Khsmty&layout=compact)](https://wakatime.com/@Khsmty)
