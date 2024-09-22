@@ -1,5 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=khsmty)
-[![wakatime](https://wakatime.com/badge/user/00015e7c-0762-4449-b1b4-fde19a0d35b2.svg)](https://wakatime.com/@Khsmty)
+[![wakatime](https://wakatime.com/badge/user/00015e7c-0762-4449-b1b4-fde19a0d35b2.svg)](https://wakatime.com/@tokoshi)
 
 ## Hi there 👋
 
