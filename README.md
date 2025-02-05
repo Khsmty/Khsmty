@@ -37,4 +37,4 @@ I'm Khsmty, a Japanese student.
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khsmty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=Khsmty&layout=compact)](https://wakatime.com/@Khsmty)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=tokoshi&layout=compact)](https://wakatime.com/@tokoshi)
